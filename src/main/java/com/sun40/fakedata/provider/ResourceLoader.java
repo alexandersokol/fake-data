@@ -1,4 +1,4 @@
-package provider;
+package com.sun40.fakedata.provider;
 
 import java.io.BufferedReader;
 import java.io.File;
